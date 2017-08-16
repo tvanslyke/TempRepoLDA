@@ -1,0 +1,6 @@
+sudo apt-get install libboost-dev
+sudo apt-get install python-nltk || sudo pip install nltk
+sudo pip install gensim numpy tqdm stop-words
+# juuuuust in case
+sudo apt-get install libstdc++-5-dev make
+
